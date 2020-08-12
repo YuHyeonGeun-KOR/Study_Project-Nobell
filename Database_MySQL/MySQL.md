@@ -4,18 +4,19 @@
 MySQL Structure
 =====
 
-1. Table
+## **1. Table** 
    
    ![캡쳐](./img/2.png)<br><br><br>
 
-2. Database , Schema
+## **2. Database , Schema** 
    
-    ![캡쳐](./img/3.png)<br><br><br>
+   ![캡쳐](./img/3.png)<br><br><br>
 
-3. Database server
-  
-    ![캡쳐](./img/4.png)<br><br><br>
- 
+
+## **3.Database Server** 
+   
+   ![캡쳐](./img/4.png)<br><br><br>
+
 
  MySQL Tutorial
 =====
